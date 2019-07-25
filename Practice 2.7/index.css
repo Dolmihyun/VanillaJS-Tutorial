@@ -1,0 +1,13 @@
+body {
+  background-color: #ecf0f1;
+}
+
+h1 {
+  color: #34495e;
+  cursor: pointer;
+  transition: color 0.4s ease-in-out;
+}
+
+.clicked {
+  color: #7f8c8d;
+}
